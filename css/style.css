@@ -1,0 +1,30 @@
+header {
+	margin: 0 0 40px 0;
+	background-color: orange;
+	padding: 40px 0;
+}
+
+.logo {
+	width: 300px;
+	color: white;
+	font-weight: bold;
+	text-decoration: underline;
+	background-color: black;
+	border-radius: 5px 5px 5px 5px;
+	padding: 15px 0px;
+}
+
+.thumbnail {margin: 0px;}
+.produk {
+	font-size: 15px;
+	text-align: center; 
+}
+
+footer {
+	padding: 15px 0;
+	margin-top: 50px;
+	background-color: orange;
+	color: white;
+}
+
+.kontak {font-weight: bold; margin: 10px 0px 0px 0px;}
